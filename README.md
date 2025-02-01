@@ -62,13 +62,13 @@ npm run server
 
 See below some images that show some features and pages of the site.
 
-![Home1](./images/home1.png)
+![i1](./images/i1.png)
 
-![Home2](./images/home2.png)
+![i2](./images/i2.png)
 
-![Rides](./images/rides.png)
+![i3](./images/i3.png)
 
-![Profile](./images/profile.png)
+![i4](./images/i4.png)
 
 ---
 
